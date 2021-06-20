@@ -55,7 +55,7 @@ def order():
 speech = order()
 
 #Execution of task 
-if 'play' in speech : #playing song on youtube
+if 'play' in speech : #playing songs on youtube
         song = speech.replace('play',' ')
         print('playing'+song)
         speak('playing'+song)
