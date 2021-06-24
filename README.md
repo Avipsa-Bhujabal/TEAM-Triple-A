@@ -27,3 +27,8 @@ we’re busy and struggling to memorise everything around us. It would help to m
  1. Avipsa Bhujabal
  2. Aparajita Priyadarshini Sahu
  3. Ankita Verma
+
+## WEEK - 1
+
+ 1. Making the virtual assistant greet
+ 2. Opening youtube 
